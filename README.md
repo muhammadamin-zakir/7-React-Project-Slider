@@ -1,5 +1,3 @@
-# react-projects-7-slider
+## Idea
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+https://www.uidesigndaily.com/
